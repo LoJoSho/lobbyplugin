@@ -1,0 +1,10 @@
+name: Lobbyplugin
+version: ${project.version}
+main: me.lojosho.lobbyplugin.Lobbyplugin
+api-version: 1.16
+authors: [ lojosho ]
+description: a plugin for the lobby
+commands:
+  discord:
+    description: discord command
+    aliases: [ discord ]
